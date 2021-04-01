@@ -26,8 +26,6 @@
       order: 2;
       height: 41rem;
       background-image: none;
-      // background-image: url('/images/bg-intro-desktop.svg');
-      //     background-position: left center;
     }
 
     &::before {
@@ -37,7 +35,6 @@
         position: absolute;
         height: 100%;
         background-image: url("/images/bg-intro-desktop.svg");
-        // background-size: 93%;
         background-repeat: no-repeat;
         background-position: center bottom;
         width: 150%;
